@@ -1,25 +1,27 @@
-# Hi there! 👋
+# Hi there 👋, I'm Feri Teja Kusuma
 
-I'm Feri, a passionate Web Dev from Indonesia.
+## About Me
+I'm a passionate full-stack developer with expertise in backend development using NestJS, frontend development with ReactJS, and mobile app development using React Native. I thrive on exploring new technologies and leveraging them to solve real-world problems.
 
-## 🔧 Technologies & Tools
+- 🌱 Currently learning Go and Dart
+- 👯 Open to collaborating on interesting projects
+- 💬 Ask me about NestJS, ReactJS, React Native, or anything related to full-stack development
+- 📫 Reach me at: [feriteja@gmail.com]
 
-![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
-![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
-<!-- Add more technologies and tools -->
+## Skills
+- **Backend Development:** NestJS
+- **Frontend Development:** ReactJS
+- **Mobile App Development:** React Native, Flutter
+- **Programming Languages:** Go, JavaScript, Dart
+- **Frameworks & Libraries:** NestJS, ReactJS, React Native, Flutter
+- **Databases:** PostgreSQL, MongoDB, Firebase
 
-## 🌱 I’m currently learning
+## GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=feriteja&show_icons=true&theme=radical)](https://github.com/feriteja)
 
-- [Something interesting]
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/feri-teja-kusuma-827545122/)
+- [Twitter](https://twitter.com/feriteja/)
+- [Instagram](https://www.instagram.com/feri_teja/)
 
-## 📫 How to reach me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter)](https://twitter.com/yourusername)
-
-## &#x1f4c8; GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Add more sections as needed -->
-
+Feel free to connect with me, and let's dive into some tech discussions! 😊
